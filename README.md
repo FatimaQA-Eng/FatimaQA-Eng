@@ -28,17 +28,9 @@ Real-world QA case study showcasing test planning, cross-browser/mobile testing,
 - ✅ Certified Scrum Master (CSM) – Scrum Alliance  
 - ✅ Mobile Testing Masterclass – 2024  
 - ✅ AI for Software Testers – LinkedIn Learning
--  Software Testing Foundations: AI Integration 
-- 🎯 ISTQB Foundation – Scheduled for August 2025  
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Mobile Testing  
-- AI Tools in Software Testing  
-- Writing Test Strategies for Modern QA
-
+-  Software Testing Foundations: AI Integration
+-  Mobile Testing 
+  
 ---
 
 💼 Open to remote opportunities | 💌 fatima.alfred25@gmail.com | 🌍 Portland, OR
