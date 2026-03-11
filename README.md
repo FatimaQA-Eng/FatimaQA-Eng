@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Fatima Alfred
+QA Analyst | AI Output Evaluation | Manual & Agile QA | SaaS Product Testing | Web & Mobile Testing | REST API Testing | Exploratory Testing | Playwright (Learning) | JIRA | CSM | Certified in AI-Enhanced Testing
 
 🎯 **QA Analyst** with 10+ years of experience in **eCommerce, healthcare, banking, and ERP systems**.  
 I specialize in **manual testing, API validation, SQL, cross-browser testing**, and **AI-augmented QA**.
