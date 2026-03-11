@@ -2,7 +2,10 @@
 QA Analyst | AI Output Evaluation | Manual & Agile QA | SaaS Product Testing | Web & Mobile Testing | REST API Testing | Exploratory Testing | Playwright (Learning) | JIRA | CSM | Certified in AI-Enhanced Testing
 
 🎯 **QA Analyst** with 10+ years of experience in **eCommerce, healthcare, banking, and ERP systems**.  
-I specialize in **manual testing, API validation, SQL, cross-browser testing**, and **AI-augmented QA**.
+I specialize in **manual testing, API validation, SQL, cross-browser testing**, and **AI-augmented QA**.Quality-focused QA Analyst with 10+ years of experience testing healthcare, church publishing/media, ERP, banking, eCommerce, and financial SaaS platforms. Skilled in manual, exploratory, and mobile application testing, API validation, ERP integrations, EMR workflows, and HIPAA-compliant systems.
+Recently certified in AI for Software Testing with training in prompt engineering, intelligent test design, and defect prediction using tools such as ChatGPT and GitHub Copilot.
+Proficient with Jira, Zephyr, TestRail, TFS, Quality Center (QC), Swagger, Postman, Azure DevOps, and Python scripting for data validation.
+At WebPT, led QA for HIPAA-compliant EMR modules; at OCP, supported a successful ERP migration; and at U.S. Bank, tested secure online banking platforms. Passionate about improving software quality by combining strong QA fundamentals with modern AI-enhanced testing practices.
 
 ## 🔧 Skills & Tools
 
