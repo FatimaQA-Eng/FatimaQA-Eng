@@ -6,7 +6,7 @@ Portland, OR | fatima.alfred25@gmail.com
 ---
 
 ##  About Me
-QA professional with 10+ years of experience across healthcare SaaS, 
+QA professional with 10+ years of Manual testing experience across healthcare SaaS, 
 banking, financial analytics, and ecommerce platforms. I test like both 
 a real user and an adversary — using creative prompting and edge case 
 design to break systems and uncover hidden failures.
