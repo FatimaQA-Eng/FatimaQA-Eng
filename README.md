@@ -1,4 +1,4 @@
-#  Hi, I'm Fatima Alfred
+# Fatima Alfred
 
 **AI QA Engineer | LLM & Agentic Workflow Testing | Manual & Exploratory QA  
 Portland, OR | fatima.alfred25@gmail.com
@@ -6,14 +6,13 @@ Portland, OR | fatima.alfred25@gmail.com
 ---
 
 ##  About Me
-QA professional with 10+ years of Manual testing experience across healthcare SaaS, 
-banking, financial analytics, and ecommerce platforms. I test like both 
-a real user and an adversary — using creative prompting and edge case 
-design to break systems and uncover hidden failures.
+QA professional with 10+ years of experience in manual testing across healthcare SaaS, banking, financial analytics, and ecommerce platforms.
 
-Currently focused on AI QA — testing LLM-based and agentic systems for 
-hallucinations, adversarial prompt behavior, context handling, and output 
-accuracy.
+Skilled in testing complex, multi-step workflows, uncovering edge cases, and identifying data and business logic issues that standard testing often misses.
+
+I test systems like both a real user and an adversary — using creative prompting and exploratory techniques to break systems and uncover hidden failures.
+
+Recently focused on AI QA, including testing LLM-based and agentic systems for hallucinations, adversarial prompt behavior, context handling, and output accuracy.
 
 ---
 
@@ -41,9 +40,9 @@ Playwright + Cucumber BDD framework in JavaScript using Page Object Model:
 ---
 
 ##  Skills
+**Testing:** Manual, Functional, Regression, E2E, Exploratory, UAT, API  
 **AI & LLM Testing:** Hallucination detection, adversarial prompting, 
 context/memory validation, AI test case evaluation  
-**Testing:** Manual, Functional, Regression, E2E, Exploratory, UAT, API  
 **Tools:** JIRA, Zephyr Scale, Postman, Swagger, SQL, TestRail  
 **Automation:** Playwright, Cucumber BDD, JavaScript, Gherkin (In Progress)  
 
