@@ -1,6 +1,6 @@
 #  Hi, I'm Fatima Alfred
 
-**AI QA Engineer | LLM & Agentic Workflow Testing | Manual QA Specialist**  
+**AI QA Engineer | LLM & Agentic Workflow Testing | Manual & Exploratory QA  
 Portland, OR | fatima.alfred25@gmail.com
 
 ---
